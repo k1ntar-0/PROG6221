@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kinta\\Downloads\\CybersecurityChatbot\\chatbot\\chatbot\\chatbot.csproj": {}
+    "C:\\Users\\kinta\\Downloads\\CybersecurityChatbot\\chatbot\\chatbot\\chatbot.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kinta\\Downloads\\CybersecurityChatbot\\chatbot\\chatbot\\chatbot.csproj": {
+    "C:\\Users\\kinta\\Downloads\\CybersecurityChatbot\\chatbot\\chatbot\\chatbot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kinta\\Downloads\\CybersecurityChatbot\\chatbot\\chatbot\\chatbot.csproj",
+        "projectUniqueName": "C:\\Users\\kinta\\Downloads\\CybersecurityChatbot\\chatbot\\chatbot\\chatbot.csproj",
         "projectName": "chatbot",
-        "projectPath": "c:\\Users\\kinta\\Downloads\\CybersecurityChatbot\\chatbot\\chatbot\\chatbot.csproj",
+        "projectPath": "C:\\Users\\kinta\\Downloads\\CybersecurityChatbot\\chatbot\\chatbot\\chatbot.csproj",
         "packagesPath": "C:\\Users\\kinta\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kinta\\Downloads\\CybersecurityChatbot\\chatbot\\chatbot\\obj\\",
+        "outputPath": "C:\\Users\\kinta\\Downloads\\CybersecurityChatbot\\chatbot\\chatbot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinta\\AppData\\Roaming\\NuGet\\NuGet.Config"
