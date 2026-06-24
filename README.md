@@ -1,5 +1,5 @@
 # PROG6221
-part 2 chatbot
+part 3 chatbot
 # CyberSentinel Security Terminal
 
 ### Student Details
